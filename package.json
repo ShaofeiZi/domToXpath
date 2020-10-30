@@ -1,0 +1,23 @@
+{
+  "name": "domtoxpath",
+  "version": "1.0.0",
+  "description": "Chromium devtools XPath generation method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c rollup.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaofeiZi/domToXpath.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaofeiZi/domToXpath/issues"
+  },
+  "homepage": "https://github.com/ShaofeiZi/domToXpath#readme",
+  "devDependencies": {
+    "rollup": "^2.32.1"
+  }
+}
